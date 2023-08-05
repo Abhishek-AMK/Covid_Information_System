@@ -23,7 +23,7 @@ static webapp is hosting the website incorporating the various informations and 
 
 **Project demo video link** - https://youtu.be/rguKDr6C85M
 
-**Github repo link** - 
+**Github repo link** - https://github.com/Abhishek-AMK/Covid_Information_System.git
 
 ## Features and Functions
 
