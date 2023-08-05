@@ -54,6 +54,16 @@ Our site have many user friendly features like:
 <img width="955" alt="image" src="https://github.com/Abhishek-AMK/Covid_Information_System/assets/113782190/a92f8a47-e66c-4b4f-b838-e19446a29fe0">
 <img width="956" alt="image" src="https://github.com/Abhishek-AMK/Covid_Information_System/assets/113782190/76bdc38a-3fc7-4114-982d-16e4be355973">
 <img width="950" alt="image" src="https://github.com/Abhishek-AMK/Covid_Information_System/assets/113782190/df13935a-0692-4c38-85eb-aeb57fb92d61">
+**Our healthbot's primary objective is tell the patient weather he is eligible for covid vaccination or not.**
+**The following things bot will take input to predict the eligibility of vaccination**
+* age
+* any previous medical records
+* any previous disease
+* allergies
+* previous vaccination history
+  etc ...
+
+
 
 ### My sincere thanks to Future Ready Talent & associated groups for giving me this opportunity of being part and completing the internship.
 
