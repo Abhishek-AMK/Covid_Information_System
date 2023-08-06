@@ -13,6 +13,7 @@ Our site have many user friendly features like:
 * About
 * Information
 * healthbot
+
 The main aim of healthbot is to check the eligibilty of a person to take a vaccine by taking into account various factors like his health,age,comorbities,etc
 By doing all things said above we are trying to prevent further casualities caused by covid pandemic
 
